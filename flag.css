@@ -1,0 +1,99 @@
+.flag{
+  display: flex;
+  
+}
+#clr{
+  background-color: white;
+  height: 250px;
+  width: 300px;
+ 
+}
+#a{
+  background-color: red;
+  width: 300px;
+  height: 80px;
+}
+#b{
+  background-color: white;
+  width: 300px;
+  height: 80px;
+  
+
+}
+#c{
+  background-color: blue;
+  width: 300px;
+  height: 88px;
+  
+}
+#d{
+  margin-left: 85px;
+}
+
+#cla{
+  background-color: white;
+  height: 250px;
+  width: 300px; 
+  margin-left: 80px;
+ 
+}
+#A{
+  background-color: green;
+  width: 300px;
+  height: 80px;
+}
+#B{
+  background-color: yellow;
+  width: 300px;
+  height: 80px;
+  
+
+}
+#C{
+  background-color: red;
+  width: 300px;
+  height: 88px;
+  
+}
+#D{
+  margin-left: 85px;
+}
+
+#claA{
+  background-color: white;
+  height: 250px;
+  width: 300px; 
+  margin-left: 80px;
+  border: 2px solid black;
+  display:flex;
+ 
+}
+#Aa{
+  background-color:black;
+  width:100px;
+  height:250px;
+}
+#Bb{
+  background-color: yellow;
+  width:100px;
+  height: 250px;
+
+}
+#Cc{
+  background-color: red;
+  width:100px;
+  height: 250px;
+  
+}
+#h {
+  display: flex;
+}
+#x {
+  margin-left: 70px;
+}
+#y {
+  margin-left: 250px;
+}
+#z {
+  margin-left: 300px;
+}
